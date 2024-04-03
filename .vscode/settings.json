@@ -1,0 +1,6 @@
+{
+   "editor.tabSize": 3,
+   "prettier.tabWidth": 3,
+   "editor.fontSize": 17,
+   "files.autoSave": "onFocusChange"
+}
